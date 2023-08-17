@@ -9,4 +9,4 @@ The script performs a Windows backup and then sends a failure or success email d
   4. Wait till the end
   5. OPTIONAL: Check email to see if it was succeeded or failed 
 
-I am not creator of this script but I hace added some new things to customize it for my needs.
+I am not creator of this script but I have added some new things to customize it for my needs.
